@@ -1,2 +1,2 @@
 # Learning-Ruby
-A repository to save the code I used to learn Ruby 
+A repository to store the contents used to learn Ruby on AppAcademy open
